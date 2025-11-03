@@ -221,7 +221,3 @@ Let’s make learning Flutter fun, interactive, and inspiring! 🚀
 
 ```
 
----
-
-Would you like me to make this `README.md` include **animated GIF previews** (e.g., screen recording of navigation or transitions)? It looks fantastic on GitHub repos and shows your interactivity clearly.
-```
