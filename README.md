@@ -179,7 +179,6 @@ You can enhance this app further by adding:
 | ------------------------------------- | ------------------------------------- | -------------------------------------- |
 | ![Welcome](assets/screenshots/welcome-page.png) | ![Profile](assets/screenshots/profile-page.png) | ![About Me](assets/screenshots/about-me-page.png) |
 
-*(Add your screenshots here)*
 
 ---
 
@@ -205,6 +204,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 If you like this project, give it a ⭐ on GitHub and share your feedback!
 Let’s make learning Flutter fun, interactive, and inspiring! 🚀
+
 
 
 
