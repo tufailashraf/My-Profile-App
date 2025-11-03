@@ -1,14 +1,3 @@
-Perfect — I’ve got your request clear. You want **one single, complete `README.md` file**, not broken into segments, that’s:
-
-* Detailed,
-* Professional,
-* Interactive (engaging language, emojis, icons, etc.),
-* Fully describing your **My Profile App** — including overview, features, folder structure, setup instructions, technologies used, screenshots, and optional enhancements.
-
-Here’s the **final unified `README.md`** for your Flutter profile app 👇
-
----
-
 # 🌟 My Profile App – Flutter Project
 
 Welcome to **My Profile App**, a modern, responsive, and interactive Flutter application built to showcase your personal information, skills, and interests — all in a beautifully designed interface.  
@@ -188,7 +177,7 @@ You can enhance this app further by adding:
 
 | Welcome Screen                        | Profile Screen                        | About Me Page                          |
 | ------------------------------------- | ------------------------------------- | -------------------------------------- |
-| ![Welcome](assets/screenshots/welcome-page.jpg) | ![Profile](assets/screenshots/profile-page.jpg) | ![About Me](assets/screenshots/about-me-page.jpg) |
+| ![Welcome](assets/screenshots/welcome-page.png) | ![Profile](assets/screenshots/profile-page.png) | ![About Me](assets/screenshots/about-me-page.png) |
 
 *(Add your screenshots here)*
 
@@ -216,5 +205,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 If you like this project, give it a ⭐ on GitHub and share your feedback!
 Let’s make learning Flutter fun, interactive, and inspiring! 🚀
+
 
 
